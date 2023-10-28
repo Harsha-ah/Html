@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: black;
+}
+p{
+    font-size: medium;
+    font-style: italic;
+    color: brown;
+}
